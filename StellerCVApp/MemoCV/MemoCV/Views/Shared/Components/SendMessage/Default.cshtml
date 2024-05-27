@@ -1,0 +1,17 @@
+﻿@using EntityLayer.Concrete
+@model List<Message>
+@foreach(var item in Model) {
+<div class="form">
+    <form method="post">
+        <div class="form-group">
+            @item.Email
+            <input type="email" name="Mail" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+        </div>
+        <div class="form-group">
+            @item.Content
+            <textarea name="Content" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block rounded w-lg">Send Message</button>
+    </form>
+</div>
+}

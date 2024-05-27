@@ -1,0 +1,29 @@
+﻿@using EntityLayer.Concrete
+@model List<Testimonial>
+<section id="testmonial" class="section">
+    <div class="container text-center">
+        <h6 class="subtitle">Referanslarım</h6>
+        <h6 class="section-title mb-4">İnsanlar Hakkımda Ne Düşünüyor?</h6>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                @foreach(var item in Model){
+                <div class="carousel-item active">
+                    <div class="card testmonial-card border">
+                        <div class="card-body">
+                            <img src="@item.ImageURL" alt="">
+                            <p>@item.Comment</p>
+                            <h1 class="title">@item.ClientName</h1>
+                            <h1 class="subtitle">@item.Company</h1>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

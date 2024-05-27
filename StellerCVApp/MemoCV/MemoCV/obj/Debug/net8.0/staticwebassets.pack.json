@@ -1,0 +1,1301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminn\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\adminn\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\adminn\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.eot",
+      "PackagePath": "staticwebassets\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.svg",
+      "PackagePath": "staticwebassets\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf",
+      "PackagePath": "staticwebassets\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.woff",
+      "PackagePath": "staticwebassets\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\adminn\\assets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\adminn\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\adminn\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\adminn\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\adminn\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\adminn\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\adminn\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\adminn\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\adminn\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\adminn\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\img\\find_user.png",
+      "PackagePath": "staticwebassets\\adminn\\assets\\img\\find_user.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\assets\\js\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\adminn\\assets\\js\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\blank.html",
+      "PackagePath": "staticwebassets\\adminn\\blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\chart.html",
+      "PackagePath": "staticwebassets\\adminn\\chart.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\form.html",
+      "PackagePath": "staticwebassets\\adminn\\form.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\index.html",
+      "PackagePath": "staticwebassets\\adminn\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\tab-panel.html",
+      "PackagePath": "staticwebassets\\adminn\\tab-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\table.html",
+      "PackagePath": "staticwebassets\\adminn\\table.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\ui.html",
+      "PackagePath": "staticwebassets\\adminn\\ui.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\css\\style.css",
+      "PackagePath": "staticwebassets\\login-form-19\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\login-form-19\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\index.html",
+      "PackagePath": "staticwebassets\\login-form-19\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login-form-19\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login-form-19\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\js\\main.js",
+      "PackagePath": "staticwebassets\\login-form-19\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login-form-19\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\main.html",
+      "PackagePath": "staticwebassets\\login-form-19\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login-form-19\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\steller\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\README.txt",
+      "PackagePath": "staticwebassets\\steller\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\gulpfile.js",
+      "PackagePath": "staticwebassets\\steller\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\package.json",
+      "PackagePath": "staticwebassets\\steller\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\css\\steller.css",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\css\\steller.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-1.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-2.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-3.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-4.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-5.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\folio-6.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\folio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\logo.svg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\logoInfotechAcademy.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\logoInfotechAcademy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\man.svg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\man.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\imgs\\memo.jpg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\imgs\\memo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\js\\steller.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\js\\steller.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\abstracts\\_utilities.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\abstracts\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_carousel.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_googlemap.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_googlemap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\components\\_progressbar.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\components\\_progressbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\layout\\_section.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\layout\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\steller.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\steller.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\steller\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\components.html",
+      "PackagePath": "staticwebassets\\steller\\public_html\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\steller\\public_html\\index.html",
+      "PackagePath": "staticwebassets\\steller\\public_html\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MehmetCV.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MehmetCV.props",
+      "PackagePath": "build\\MehmetCV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MehmetCV.props",
+      "PackagePath": "buildMultiTargeting\\MehmetCV.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MehmetCV.props",
+      "PackagePath": "buildTransitive\\MehmetCV.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

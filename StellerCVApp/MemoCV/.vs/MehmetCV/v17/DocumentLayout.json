@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8DF48D-ABE6-4061-80BE-1471C6A8BB03}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8DF48D-ABE6-4061-80BE-1471C6A8BB03}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8DF48D-ABE6-4061-80BE-1471C6A8BB03}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD8DF48D-ABE6-4061-80BE-1471C6A8BB03}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97999497-5A1A-45EF-AE49-62BE83DA91FC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97999497-5A1A-45EF-AE49-62BE83DA91FC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\admin2\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\admin2\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\admin2\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\admin2\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\admin2\\partialhead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\admin2\\partialhead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\wwwroot\\adminn\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\wwwroot\\adminn\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\wwwroot\\login-form-19\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\wwwroot\\login-form-19\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\skill\\editskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\skill\\editskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\skill\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\skill\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\service\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\service\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|c:\\users\\mhmtnr\\desktop\\cvapp\\memocv\\memocv\\views\\service\\editservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD575E4-B2B4-43C9-857D-4E5EBA185E83}|MemoCV\\MehmetCV.csproj|solutionrelative:memocv\\views\\service\\editservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:24:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\appsettings.json",
+              "RelativeDocumentMoniker": "MemoCV\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\appsettings.json",
+              "RelativeToolTip": "MemoCV\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T23:21:34.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Program.cs",
+              "RelativeDocumentMoniker": "MemoCV\\Program.cs",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Program.cs",
+              "RelativeToolTip": "MemoCV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:17:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T23:07:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T23:06:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Admin2\\PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialSideBar.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Admin2\\PartialSideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:31:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PartialScript.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialScript.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Admin2\\PartialScript.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialScript.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Admin2\\PartialScript.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:31:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartialHead.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialHead.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Admin2\\PartialHead.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin2\\PartialHead.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Admin2\\PartialHead.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:31:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:31:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:11:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T22:06:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Skill\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\Index.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Skill\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:50:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\index.html",
+              "RelativeDocumentMoniker": "MemoCV\\wwwroot\\adminn\\index.html",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\adminn\\index.html",
+              "RelativeToolTip": "MemoCV\\wwwroot\\adminn\\index.html",
+              "ViewState": "AQIAABwAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-27T22:06:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\index.html",
+              "RelativeDocumentMoniker": "MemoCV\\wwwroot\\login-form-19\\index.html",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\wwwroot\\login-form-19\\index.html",
+              "RelativeToolTip": "MemoCV\\wwwroot\\login-form-19\\index.html",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-27T22:05:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\AddSkill.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Skill\\AddSkill.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\AddSkill.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Skill\\AddSkill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:50:40.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\EditSkill.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Skill\\EditSkill.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Skill\\EditSkill.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Skill\\EditSkill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:47:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:48:02.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\AddService.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Service\\AddService.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\AddService.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Service\\AddService.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:50:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\EditService.cshtml",
+              "RelativeDocumentMoniker": "MemoCV\\Views\\Service\\EditService.cshtml",
+              "ToolTip": "C:\\Users\\Mhmtnr\\Desktop\\CVApp\\MemoCV\\MemoCV\\Views\\Service\\EditService.cshtml",
+              "RelativeToolTip": "MemoCV\\Views\\Service\\EditService.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:50:23.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

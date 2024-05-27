@@ -1,0 +1,18 @@
+﻿@using EntityLayer.Concrete
+@model List<About>
+<section id="about" class="section mt-3">
+    <div class="container mt-5">
+        @foreach(var item in Model)
+        {
+        <div class="row text-center text-md-left">
+            <div class="col-md-3">
+                <img src="@item.ImageURL" alt="" class="img-thumbnail mb-4">
+            </div>
+            <div class="pl-md-4 col-md-9">
+                <h6 class="title">@item.Title</h6>
+                <p>@item.Description</p>                
+            </div>
+        </div>
+        }
+    </div>
+</section>

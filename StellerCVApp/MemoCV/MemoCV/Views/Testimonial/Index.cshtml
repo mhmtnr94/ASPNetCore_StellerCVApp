@@ -1,0 +1,40 @@
+﻿@using EntityLayer.Concrete
+@model List<Testimonial>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h4>Referans Listesi</h4>
+<div class="table-responsive">
+	<table class="table">
+		<thead>
+			<tr>
+				<th> Görsel </th>
+				<th> Referans Adı </th>
+				<th> Şirket </th>
+				<th> Açıklama </th>
+				<th> Sil </th>
+				<th> Düzenle </th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+
+					<td>
+						<img src="@item.ImageURL" alt="image" />
+					</td>
+					<td> @item.ClientName </td>
+					<td> @item.Company </td>
+					<td> @item.Comment </td>
+					<td> <a href="/Testimonial/DeleteTestimonial/@item.TestimonialID" class="btn btn-danger">Sil</a> </td>
+					<td> <a href="/Testimonial/EditTestimonial/@item.TestimonialID" class="btn btn-info">Düzenle</a> </td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<a href="/Testimonial/AddTestimonial/" class="btn btn-info">Yeni Referans Ekle</a>
+</div>
+

@@ -1,0 +1,17 @@
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Mhmtnr\Desktop\CVApp\MemoCV\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

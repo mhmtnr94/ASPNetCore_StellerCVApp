@@ -1,0 +1,21 @@
+﻿@using EntityLayer.Concrete
+@model List<Service>
+<section id="service" class="section">
+    <div class="container text-center">
+        <h6 class="subtitle">Hizmetler</h6>
+        <h6 class="section-title mb-4">Ne Yapıyorum?</h6>
+        <p class="mb-5 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In alias dignissimos. <br> rerum commodi corrupti, temporibus non quam.</p>
+        @foreach(var item in Model){
+        <div class="row">
+            <div class="col-sm-12 col-md-12 mb-4">
+                <div style="margin : auto" class="custom-card card border">
+                    <div class="card-body">
+                        <i class="icon ti-crown"></i>
+                        <h5>@item.Title</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</section>
